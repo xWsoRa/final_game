@@ -8,5 +8,5 @@ gameButton2.addEventListener("click", function() {
 });
 const gameButton3 = document.getElementById("gameButton3");
 gameButton3.addEventListener("click", function() {
-  window.open("https://xwsora.github.io/long_questions/", "_blank");
+  window.open("https://xwsora.github.io/fill_Blank_final/", "_blank");
 });
